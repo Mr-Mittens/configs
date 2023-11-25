@@ -1,9 +1,9 @@
-### Pop_Os! Rice
+### configs for my workflow 
 make [pop os](https://support.system76.com/articles/customize-gnome) optimal and simple 
 
 -----
 
-**Pop!_OS Dock Optimizer Script** [`dock.sh`](https://github.com/krabx64/Pop-os-rice/blob/main/dock.sh)
+**Dock Optimizer Script (Pop!_OS)** [`dock.sh`](https://github.com/krabx64/Pop-os-rice/blob/main/dock.sh)
 
 This fork aims to make dock minimal and optimized
 
